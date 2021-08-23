@@ -48,7 +48,7 @@ jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
 jupyterhub==0.9.4
-jupyterlab==1.2.4
+jupyterlab==1.2.21
 jupyterlab-server==1.0.6
 kiwisolver==1.1.0
 Mako==1.0.7
