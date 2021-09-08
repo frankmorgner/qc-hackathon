@@ -78,7 +78,7 @@ penaltymodel-lp==0.1.0
 penaltymodel-mip==0.2.1
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==8.3.2
 plucky==0.4.3
 ply==3.11
 prometheus-client==0.5.0
