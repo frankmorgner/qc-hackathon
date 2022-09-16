@@ -51,7 +51,7 @@ jupyterhub==0.9.4
 jupyterlab==1.2.4
 jupyterlab-server==1.0.6
 kiwisolver==1.1.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 marshmallow==3.3.0
 marshmallow-polyfield==5.7
